@@ -1,8 +1,8 @@
-<!-- Optional cool header -->
-<!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=0f4a3e&height=300&section=header&text=SAMEER%20KHAN&fontColor=d3d3d3&fontSize=68&animation=fadeIn&fontAlignY=38&desc=MERN%20%26%20WordPress%20Developer&descAlignY=58&descAlign=71) -->
 
-<h1 align="center">Hi 👋, I'm Sameer</h1>
-<h3 align="center">Final year Software Engineering student, WordPress Developer with 2 years of experience, currently learning MERN Stack.</h3>
+
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+<h1><b>Hi there, I'm </b><a href="https://github.com/ALX-13">AAL1X</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
+<br>
 
 - ⚡ I build fast, responsive websites and web apps  
 - ⚡ 2 years of hands-on WordPress experience  
