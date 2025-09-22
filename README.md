@@ -89,7 +89,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=khansameerm&row=1&margin-w=40)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p align="center">
- <img src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" width="800" alt="Dino Game" />
+ <img src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" width="100%" alt="Dino Game" />
 </p>
 
 ### ✍️ Random Dev Quote
