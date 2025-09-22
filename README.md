@@ -1,13 +1,11 @@
-
-
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 <h1><b>Hi there, I'm </b><a href="https://github.com/ALX-13">Sameer</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 <br>
 
-- ⚡ I build fast, responsive websites and web apps THAT DONT SUCK
-- ⚡ 2 years of hands-on WordPress experience   
+- ⚡ I build fast, responsive websites and web apps THAT DONT SUCK  
+- ⚡ 2 years of hands-on WordPress experience  
 - ⚡ Currently focused on MERN Stack projects  
-- ⚡ Fun fact: So much universe, so little time 
+- ⚡ Fun fact: So much universe, so little time  
 
 <p align="center">
  <img src="https://komarev.com/ghpvc/?username=khansameerm&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
@@ -91,10 +89,9 @@
     </a>
 </div>
 
-
 <p align="center">
+  <img src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" width="200" />
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm41ZGI2M2tsMW1mY2dxemlleWdidG14MGIwZjhiNDBkZ3Y3ODRqaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lTLV2erK8vf1MIz4Rk/giphy.gif" width="200" />
-  <img src="https://raw.githubusercontent.com/khansameerm/khansameerm/main/cj-uwu.gif" width="200" />
 </p>
 
 ### ✍️ Random Dev Quote
