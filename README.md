@@ -2,21 +2,15 @@
 <h1><b>Hi there, I'm </b><a href="https://github.com/ALX-13">Sameer</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 <br>
 
-<table width="100%">
-  <tr>
-    <td>
-
-- ⚡ I build fast, responsive websites and web apps THAT DONT SUCK  
-- ⚡ 2 years of hands-on WordPress experience  
-- ⚡ Currently focused on MERN Stack projects  
-- ⚡ Fun fact: So much universe, so little time  
-
-    </td>
-    <td align="right">
-      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm41ZGI2M2tsMW1mY2dxemlleWdidG14MGIwZjhiNDBkZ3Y3ODRqaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lTLV2erK8vf1MIz4Rk/giphy.gif" width="200" />
-    </td>
-  </tr>
-</table>
+<div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
+  <div>
+    - ⚡ I build fast, responsive websites and web apps THAT DONT SUCK <br>
+    - ⚡ 2 years of hands-on WordPress experience <br>
+    - ⚡ Currently focused on MERN Stack projects <br>
+    - ⚡ Fun fact: So much universe, so little time 
+  </div>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm41ZGI2M2tsMW1mY2dxemlleWdidG14MGIwZjhiNDBkZ3Y3ODRqaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lTLV2erK8vf1MIz4Rk/giphy.gif" width="200" />
+</div>
 
 
 
@@ -103,7 +97,7 @@
 </div>
 
 <p align="center">
-  <img src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" width="200" />
+  <img src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" width="84%" />
 </p>
 
 ### ✍️ Random Dev Quote
