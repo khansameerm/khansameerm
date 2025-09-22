@@ -93,10 +93,9 @@
 
 
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm41ZGI2M2tsMW1mY2dxemlleWdidG14MGIwZjhiNDBkZ3Y3ODRqaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lTLV2erK8vf1MIz4Rk/giphy.gif" width="400" alt="Coding Dino" />
-  <img src="https://media.tenor.com/2b96vYtVzVsAAAAC/skeleton-dance.gif" width="400" alt="Skeleton Dance" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm41ZGI2M2tsMW1mY2dxemlleWdidG14MGIwZjhiNDBkZ3Y3ODRqaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lTLV2erK8vf1MIz4Rk/giphy.gif" width="200" />
+  <img src="https://raw.githubusercontent.com/khansameerm/khansameerm/main/cj-uwu.gif" width="200" />
 </p>
-
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
