@@ -5,7 +5,7 @@
 <table width="150%">
   <tr>
     <td align="left" width="120%">
-      - ⚡ I build fast, responsive websites and web apps THAT DONT SUCK <br>
+      - ⚡ I build fast, responsive websites and web apps THAT DONT SUCK                                                                    <br>
       - ⚡ 2 years of hands-on WordPress experience <br>
       - ⚡ Currently focused on MERN Stack projects <br>
       - ⚡ Fun fact: So much universe, so little time 
