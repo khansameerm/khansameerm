@@ -16,7 +16,7 @@
 
 # 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/khansameerm)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:khansameerm17@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:khan.sameerm@outlook.com)
 
 # 💻 Tech Stack:
 
@@ -89,7 +89,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=khansameerm&row=1&margin-w=40)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p align="center">
- <img src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" width="300" alt="Dino Game" />
+ <img src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" width="500" alt="Dino Game" />
 </p>
 
 ### ✍️ Random Dev Quote
