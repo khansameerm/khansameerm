@@ -2,7 +2,7 @@
 <h1><b>Hi there, I'm </b><a href="https://github.com/ALX-13">Sameer</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 <br>
 
-<table width="100%">
+<table width="150%">
   <tr>
     <td align="left" width="70%">
       - ⚡ I build fast, responsive websites and web apps THAT DONT SUCK <br>
