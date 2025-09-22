@@ -93,8 +93,10 @@
 
 
 <p align="center">
- <img src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" width="100%" alt="Dino Game" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm41ZGI2M2tsMW1mY2dxemlleWdidG14MGIwZjhiNDBkZ3Y3ODRqaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lTLV2erK8vf1MIz4Rk/giphy.gif" width="400" alt="Coding Dino" />
+  <img src="https://media.tenor.com/2b96vYtVzVsAAAAC/skeleton-dance.gif" width="400" alt="Skeleton Dance" />
 </p>
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
