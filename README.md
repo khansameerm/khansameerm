@@ -1,14 +1,13 @@
 
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-<h1><b>Hi there, I'm </b><a href="https://github.com/ALX-13">AAL1X</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
+<h1><b>Hi there, I'm </b><a href="https://github.com/ALX-13">Sameer</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 <br>
 
-- ⚡ I build fast, responsive websites and web apps  
-- ⚡ 2 years of hands-on WordPress experience  
+- ⚡ I build fast, responsive websites and web apps THAT DONT SUCK
+- ⚡ 2 years of hands-on WordPress experience   
 - ⚡ Currently focused on MERN Stack projects  
-- ⚡ Goals: Build apps that don't suck  
-- ⚡ Fun fact: I debug more than I code 😅  
+- ⚡ Fun fact: So much universe, so little time 
 
 <p align="center">
  <img src="https://komarev.com/ghpvc/?username=khansameerm&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
@@ -86,7 +85,12 @@
 </a>
 
 ## 🏆 GitHub Profile Trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=khansameerm&row=1&margin-w=40)](https://github.com/ryo-ma/github-profile-trophy)
+<div align="center">
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=khansameerm&theme=dark_lover&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" width="84%" />
+    </a>
+</div>
+
 
 <p align="center">
  <img src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" width="100%" alt="Dino Game" />
