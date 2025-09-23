@@ -5,6 +5,7 @@
 <table width="100%">
   <tr>
     <td align="left" width="70%">
+      - ⚡ Final Year Software Engineering Student, can't wait to graduate <br>
       - ⚡ I build fast, responsive websites and web apps THAT DONT SUCK <br>
       - ⚡ 2 years of hands-on WordPress experience <br>
       - ⚡ Currently focused on MERN Stack projects <br>
